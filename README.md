@@ -7,7 +7,7 @@ I'm a Data Analyst with a background in customer experience and a passion for tr
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 ### 🔹 Elevate Retail – Capstone Project
 **Power BI, Excel, SQL**  

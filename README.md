@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Delenthia Harrison
+# 👋 Hi, I'm Delenthia.
 
 I'm a Data Analyst with a background in customer experience and a passion for transforming raw data into clear, actionable insights. I recently completed an A.A.S. in Data Analytics & Reporting and currently intern on the AWS data track with Luminus Data Solutions.
 

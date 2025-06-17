@@ -12,7 +12,7 @@ I'm a Data Analyst with a background in customer experience and a passion for tr
 ### 🔹 Elevate Retail – Capstone Project
 **Power BI, Excel, SQL**  
 Retail performance dashboards built for a fictional chain. I visualized KPIs like sales growth and profit margin, conducted trend analysis, and delivered stakeholder mockups aligned with SDLC principles.  
-📁 [Project Folder](./capstone-elevate-retail) | 🖼️ *Screenshots & .pbix file included*
+📁 [Project Folder]([./capstone-elevate-retail](https://github.com/DelenthiaHarrison/delenthiaharrison-portfolio/tree/Projects/capstone-elevate-retail)) | 🖼️ *Screenshots & .pbix file included*
 
 ---
 
